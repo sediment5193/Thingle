@@ -4,4 +4,4 @@
 
 layout: page
 ---
-![YOU BE WHAT]({{ site.url }}{{ site.baseurl}}/assets/img/youbewat.webp)
+![YOU BE WHAT](/assets/img/youbewat.webp){:style="display:block; margin-left:auto; margin-right:auto"}
